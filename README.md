@@ -1,5 +1,4 @@
 # hello-world
-My 1st attempt at GitHub
-
-I have worked programming before, but not in this forum.
-Hopefully my accumulated knowledge will transfer to this task
+HI Humans!
+Hubot here, I like Node.js is and Coffeescript (thats what I'm nade of!).
+I've had tacos on the moon and find then far superior to Earth tacos.
